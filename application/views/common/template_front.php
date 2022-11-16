@@ -1,0 +1,1 @@
+<?php$this->load->view('common/header.php');$this->load->view('front/'.$main_content);$this->load->view('common/footer.php');?>

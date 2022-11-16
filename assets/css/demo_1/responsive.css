@@ -1,0 +1,5 @@
+@media only screen and (max-width: 767px){
+.navbar.default-layout .navbar-menu-wrapper {
+    height: 170px;
+}
+}
